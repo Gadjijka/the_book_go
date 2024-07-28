@@ -1,0 +1,8 @@
+0.13s   22953 http://google.com
+0.20s   22993 http://google.com
+0.14s   23035 http://google.com
+0.14s   22907 http://google.com
+0.13s   22891 http://google.com
+Get "google.com": unsupported protocol scheme ""
+Get "asdds": unsupported protocol scheme ""
+Get "http://google.badcom": dial tcp: lookup google.badcom on 172.29.112.1:53: no such host
